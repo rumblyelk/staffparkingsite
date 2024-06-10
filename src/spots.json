@@ -1,0 +1,402 @@
+{
+  "0": {
+    "plate": null,
+    "timestamp": null
+  },
+  "1": {
+    "plate": null,
+    "timestamp": null
+  },
+  "2": {
+    "plate": null,
+    "timestamp": null
+  },
+  "3": {
+    "plate": null,
+    "timestamp": null
+  },
+  "4": {
+    "plate": "53-511-19",
+    "timestamp": "2024-06-10T09:54:38.885337+00:00"
+  },
+  "5": {
+    "plate": null,
+    "timestamp": null
+  },
+  "6": {
+    "plate": "97-555-68",
+    "timestamp": "2024-06-10T09:54:39.885381+00:00"
+  },
+  "7": {
+    "plate": "17-437-51",
+    "timestamp": "2024-06-10T10:05:00.885393+00:00"
+  },
+  "8": {
+    "plate": null,
+    "timestamp": null
+  },
+  "9": {
+    "plate": null,
+    "timestamp": null
+  },
+  "10": {
+    "plate": null,
+    "timestamp": null
+  },
+  "11": {
+    "plate": null,
+    "timestamp": null
+  },
+  "12": {
+    "plate": "23-297-64",
+    "timestamp": "2024-06-10T10:07:25.885421+00:00"
+  },
+  "13": {
+    "plate": null,
+    "timestamp": null
+  },
+  "14": {
+    "plate": "94-909-89",
+    "timestamp": "2024-06-10T09:50:37.885432+00:00"
+  },
+  "15": {
+    "plate": null,
+    "timestamp": null
+  },
+  "16": {
+    "plate": "83-205-29",
+    "timestamp": "2024-06-10T09:57:55.885442+00:00"
+  },
+  "17": {
+    "plate": "47-249-13",
+    "timestamp": "2024-06-10T09:50:58.885451+00:00"
+  },
+  "18": {
+    "plate": "38-277-42",
+    "timestamp": "2024-06-10T09:55:41.885460+00:00"
+  },
+  "19": {
+    "plate": null,
+    "timestamp": null
+  },
+  "20": {
+    "plate": "59-918-92",
+    "timestamp": "2024-06-10T10:00:04.885468+00:00"
+  },
+  "21": {
+    "plate": null,
+    "timestamp": null
+  },
+  "22": {
+    "plate": "58-715-75",
+    "timestamp": "2024-06-10T09:51:47.885512+00:00"
+  },
+  "23": {
+    "plate": "51-447-69",
+    "timestamp": "2024-06-10T10:04:10.885521+00:00"
+  },
+  "24": {
+    "plate": "49-346-99",
+    "timestamp": "2024-06-10T09:56:05.885529+00:00"
+  },
+  "25": {
+    "plate": "29-804-41",
+    "timestamp": "2024-06-10T10:06:43.885537+00:00"
+  },
+  "26": {
+    "plate": null,
+    "timestamp": null
+  },
+  "27": {
+    "plate": "48-238-97",
+    "timestamp": "2024-06-10T10:08:00.885545+00:00"
+  },
+  "28": {
+    "plate": "27-682-50",
+    "timestamp": "2024-06-10T09:58:05.885553+00:00"
+  },
+  "29": {
+    "plate": null,
+    "timestamp": null
+  },
+  "30": {
+    "plate": "24-317-51",
+    "timestamp": "2024-06-10T09:55:07.885562+00:00"
+  },
+  "31": {
+    "plate": null,
+    "timestamp": null
+  },
+  "32": {
+    "plate": null,
+    "timestamp": null
+  },
+  "33": {
+    "plate": null,
+    "timestamp": null
+  },
+  "34": {
+    "plate": "63-316-76",
+    "timestamp": "2024-06-10T10:11:59.885572+00:00"
+  },
+  "35": {
+    "plate": null,
+    "timestamp": null
+  },
+  "36": {
+    "plate": "39-466-57",
+    "timestamp": "2024-06-10T10:07:26.885581+00:00"
+  },
+  "37": {
+    "plate": null,
+    "timestamp": null
+  },
+  "38": {
+    "plate": "23-894-99",
+    "timestamp": "2024-06-10T09:58:17.885590+00:00"
+  },
+  "39": {
+    "plate": "73-157-26",
+    "timestamp": "2024-06-10T09:56:50.885598+00:00"
+  },
+  "40": {
+    "plate": "12-278-50",
+    "timestamp": "2024-06-10T09:58:00.885606+00:00"
+  },
+  "41": {
+    "plate": null,
+    "timestamp": null
+  },
+  "42": {
+    "plate": "45-519-76",
+    "timestamp": "2024-06-10T09:57:40.885624+00:00"
+  },
+  "43": {
+    "plate": "65-216-99",
+    "timestamp": "2024-06-10T09:49:50.885636+00:00"
+  },
+  "44": {
+    "plate": "69-545-60",
+    "timestamp": "2024-06-10T09:50:16.885645+00:00"
+  },
+  "45": {
+    "plate": "25-134-27",
+    "timestamp": "2024-06-10T09:49:53.885654+00:00"
+  },
+  "46": {
+    "plate": null,
+    "timestamp": null
+  },
+  "47": {
+    "plate": "93-577-29",
+    "timestamp": "2024-06-10T10:08:33.885664+00:00"
+  },
+  "48": {
+    "plate": "14-247-77",
+    "timestamp": "2024-06-10T09:49:17.885674+00:00"
+  },
+  "49": {
+    "plate": null,
+    "timestamp": null
+  },
+  "50": {
+    "plate": null,
+    "timestamp": null
+  },
+  "51": {
+    "plate": null,
+    "timestamp": null
+  },
+  "52": {
+    "plate": "22-236-49",
+    "timestamp": "2024-06-10T10:04:24.885685+00:00"
+  },
+  "53": {
+    "plate": null,
+    "timestamp": null
+  },
+  "54": {
+    "plate": "46-688-95",
+    "timestamp": "2024-06-10T09:51:43.885696+00:00"
+  },
+  "55": {
+    "plate": "63-804-71",
+    "timestamp": "2024-06-10T10:01:22.885704+00:00"
+  },
+  "56": {
+    "plate": "65-170-32",
+    "timestamp": "2024-06-10T10:04:02.885713+00:00"
+  },
+  "57": {
+    "plate": "27-247-90",
+    "timestamp": "2024-06-10T09:52:04.885721+00:00"
+  },
+  "58": {
+    "plate": null,
+    "timestamp": null
+  },
+  "59": {
+    "plate": null,
+    "timestamp": null
+  },
+  "60": {
+    "plate": null,
+    "timestamp": null
+  },
+  "61": {
+    "plate": null,
+    "timestamp": null
+  },
+  "62": {
+    "plate": null,
+    "timestamp": null
+  },
+  "63": {
+    "plate": null,
+    "timestamp": null
+  },
+  "64": {
+    "plate": null,
+    "timestamp": null
+  },
+  "65": {
+    "plate": null,
+    "timestamp": null
+  },
+  "66": {
+    "plate": "24-440-66",
+    "timestamp": "2024-06-10T10:02:26.885737+00:00"
+  },
+  "67": {
+    "plate": "22-161-84",
+    "timestamp": "2024-06-10T10:02:06.885746+00:00"
+  },
+  "68": {
+    "plate": null,
+    "timestamp": null
+  },
+  "69": {
+    "plate": null,
+    "timestamp": null
+  },
+  "70": {
+    "plate": null,
+    "timestamp": null
+  },
+  "71": {
+    "plate": null,
+    "timestamp": null
+  },
+  "72": {
+    "plate": "86-794-12",
+    "timestamp": "2024-06-10T10:00:01.885759+00:00"
+  },
+  "73": {
+    "plate": "29-951-23",
+    "timestamp": "2024-06-10T09:53:26.885768+00:00"
+  },
+  "74": {
+    "plate": null,
+    "timestamp": null
+  },
+  "75": {
+    "plate": null,
+    "timestamp": null
+  },
+  "76": {
+    "plate": "16-835-24",
+    "timestamp": "2024-06-10T10:11:36.885785+00:00"
+  },
+  "77": {
+    "plate": "56-293-27",
+    "timestamp": "2024-06-10T10:05:39.885793+00:00"
+  },
+  "78": {
+    "plate": null,
+    "timestamp": null
+  },
+  "79": {
+    "plate": null,
+    "timestamp": null
+  },
+  "80": {
+    "plate": null,
+    "timestamp": null
+  },
+  "81": {
+    "plate": null,
+    "timestamp": null
+  },
+  "82": {
+    "plate": "76-940-40",
+    "timestamp": "2024-06-10T09:58:27.885811+00:00"
+  },
+  "83": {
+    "plate": "90-357-54",
+    "timestamp": "2024-06-10T10:12:30.885828+00:00"
+  },
+  "84": {
+    "plate": null,
+    "timestamp": null
+  },
+  "85": {
+    "plate": null,
+    "timestamp": null
+  },
+  "86": {
+    "plate": null,
+    "timestamp": null
+  },
+  "87": {
+    "plate": null,
+    "timestamp": null
+  },
+  "88": {
+    "plate": null,
+    "timestamp": null
+  },
+  "89": {
+    "plate": "31-597-26",
+    "timestamp": "2024-06-10T10:04:58.885841+00:00"
+  },
+  "90": {
+    "plate": null,
+    "timestamp": null
+  },
+  "91": {
+    "plate": "16-620-22",
+    "timestamp": "2024-06-10T10:00:07.885850+00:00"
+  },
+  "92": {
+    "plate": "57-405-82",
+    "timestamp": "2024-06-10T09:52:40.885858+00:00"
+  },
+  "93": {
+    "plate": null,
+    "timestamp": null
+  },
+  "94": {
+    "plate": null,
+    "timestamp": null
+  },
+  "95": {
+    "plate": "34-945-12",
+    "timestamp": "2024-06-10T10:12:48.885867+00:00"
+  },
+  "96": {
+    "plate": "72-380-45",
+    "timestamp": "2024-06-10T09:55:14.885874+00:00"
+  },
+  "97": {
+    "plate": null,
+    "timestamp": null
+  },
+  "98": {
+    "plate": "35-927-67",
+    "timestamp": "2024-06-10T09:57:02.885883+00:00"
+  },
+  "99": {
+    "plate": null,
+    "timestamp": null
+  }
+}
