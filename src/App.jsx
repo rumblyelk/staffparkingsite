@@ -1,38 +1,42 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "./App.css";
 import spots from "./spots.json";
-import ListItem from "./ListItem";
+import ListItem from "./components/ListItem";
+import Nav from "./components/Nav";
 
 function App() {
   const [queriedSpots, setQueriedSpots] = useState([]);
-  const [spotsStart, setSpotsStart] = useState(0);
-  const [spotsEnd, setSpotsEnd] = useState(9);
+  const [spotsIndex, setSpotsIndex] = useState(0);
+  const spotsRange = 10;
+  const spotsArray = Object.entries(spots);
 
-  function handleClick(e) {
-    e.preventDefault();
-    setQueriedSpots([]);
-    for (let i = spotsStart; i < spotsEnd; i++) {
-      setQueriedSpots((prevSpots) => [...prevSpots, spots[i]]);
-    }
-    if (spotsEnd + 10 <= spots.length) {
-      setSpotsStart(spotsStart + 10);
-      setSpotsEnd(spotsEnd + 10);
-    } else {
-      setSpotsStart(0);
-      setSpotsEnd(9);
-    }
+  function updateSpots() {
+    setSpotsIndex((prevIndex) => {
+      const isEndOfArray = prevIndex + spotsRange >= spotsArray.length;
+      const workingRange = isEndOfArray
+        ? spotsArray.length - prevIndex
+        : spotsRange;
+
+      setQueriedSpots(spotsArray.slice(prevIndex, prevIndex + workingRange));
+      return isEndOfArray ? 0 : prevIndex + spotsRange;
+    });
   }
+
+  useEffect(() => {
+    updateSpots();
+
+    const interval = setInterval(updateSpots, 10000);
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <div>
-      <h1>Hello world!</h1>
-      <button onClick={(e) => handleClick(e)}>Log response</button>
+      <Nav />
       <ul>
         {queriedSpots.map((s, i) => (
-          <ListItem key={i} spot={s} />
+          <ListItem key={s[0]} spot={s} />
         ))}
       </ul>
-      {/* {JSON.stringify(queriedSpots)} */}
     </div>
   );
 }

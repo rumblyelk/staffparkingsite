@@ -1,0 +1,24 @@
+.itemContainerOccupied {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 0 8px rgba(100, 0, 0, 1);
+  border-radius: 10px;
+}
+
+.itemContainerVacant {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 0 8px rgba(0, 100, 0, 1);
+  border-radius: 10px;
+}
+
+.textDisplay {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-weight: bold;
+}
